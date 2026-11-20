@@ -3,3 +3,5 @@
 ![workflow](https://github.com/ScottMcK07/SEM-Labs/actions/workflows/main.yml/badge.svg)
 [![LICENSE](https://img.shields.io/github/license/ScottMcK07/devops.svg?style=flat-square)](https://github.com/ScottMcK07/devops/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/ScottMcK07/devops/all.svg?style=flat-square)](https://github.com/ScottMcK07/devops/releases)
+# DevOps
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ScottMcK07/SEM-Labs/<action name taken from main.yml>/<branch>?style=flat-square)
