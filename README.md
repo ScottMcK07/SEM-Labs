@@ -4,4 +4,4 @@
 [![LICENSE](https://img.shields.io/github/license/ScottMcK07/devops.svg?style=flat-square)](https://github.com/ScottMcK07/devops/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/ScottMcK07/devops/all.svg?style=flat-square)](https://github.com/ScottMcK07/devops/releases)
 # DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ScottMcK07/SEM-Labs/<action A workflow for my Hello World App>/<develop>?style=flat-square)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ScottMcK07/SEM-Labs/<A workflow for my Hello World App>/<develop>?style=flat-square)
