@@ -3,5 +3,4 @@
 ![workflow](https://github.com/ScottMcK07/SEM-Labs/actions/workflows/main.yml/badge.svg)
 ![GitHub License](https://img.shields.io/github/license/ScottMcK07/SEM-Labs)
 ![GitHub Release](https://img.shields.io/github/v/release/ScottMcK07/SEM-Labs)
-# DevOps
-![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/ScottMcK07/SEM-Labs/<action name taken from main.yml>/<branch>?style=flat-square)
+
