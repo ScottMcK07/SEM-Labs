@@ -4,4 +4,5 @@
 [![LICENSE](https://img.shields.io/github/license/ScottMcK07/devops.svg?style=flat-square)](https://github.com/ScottMcK07/devops/blob/master/LICENSE)
 [![Releases](https://img.shields.io/github/release/ScottMcK07/devops/all.svg?style=flat-square)](https://github.com/ScottMcK07/devops/releases)
 # DevOps
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ScottMcK07/SEM-Labs/main.yml?branch=develop)
+![GitHub Workflow Status (master)](https://img.shields.io/github/workflow/status/ScottMcK07/SEM-Labs/<Hello world action>/<master>?style=flat-square)
+![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/ScottMcK07/SEM-Labs/<Hello world action>/<develop>?style=flat-square)
