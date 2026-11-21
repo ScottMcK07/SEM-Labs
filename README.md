@@ -3,4 +3,6 @@
 ![workflow](https://github.com/ScottMcK07/SEM-Labs/actions/workflows/main.yml/badge.svg)
 ![GitHub License](https://img.shields.io/github/license/ScottMcK07/SEM-Labs)
 ![GitHub Release](https://img.shields.io/github/v/release/ScottMcK07/SEM-Labs)
-
+# DevOps
+Master Build Status ![GitHub Actions Workflow Status (master)](https://img.shields.io/github/actions/workflow/status/ScottMcK07/SEM-Labs/main.yml?branch=master)
+Develop Build Status ![GitHub Actions Workflow Status (develop)](https://img.shields.io/github/actions/workflow/status/ScottMcK07/SEM-Labs/main.yml?branch=develop)
